@@ -1,6 +1,6 @@
 # Тестовое задание.
 Для запуска проекта: Window/macOS.
-1. Устоновить GIT. `[https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git]`
+1. Устоновить GIT. `https://git-scm.com/book/ru/v2/Git`
 2. Склонировать репозиторий, в консоле прописать команду: `git clone https://github.com/depst0r/test-aplication`
 3. Завйти в папку с клонированным репозиторием, прописать команду  `cd test-aplication`
 4. Запуск проект, в консоле прописать команду `dotnet run`
